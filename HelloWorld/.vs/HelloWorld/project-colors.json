@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b2c25ae-b6f2-4cda-9b7b-d745c3a69afa": {
+      "ProjectGuid": "6b2c25ae-b6f2-4cda-9b7b-d745c3a69afa",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "9c234bd8-dc4c-4ac9-b69d-76b216f0c1e6": {
+      "ProjectGuid": "9c234bd8-dc4c-4ac9-b69d-76b216f0c1e6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "50637119-d9ba-46e8-aafe-413a2c4b6c00": {
+      "ProjectGuid": "50637119-d9ba-46e8-aafe-413a2c4b6c00",
+      "DisplayName": "Variables",
+      "ColorIndex": 2
+    },
+    "08807a48-8bc1-42eb-9f0d-e45567805b39": {
+      "ProjectGuid": "08807a48-8bc1-42eb-9f0d-e45567805b39",
+      "DisplayName": "Casting",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

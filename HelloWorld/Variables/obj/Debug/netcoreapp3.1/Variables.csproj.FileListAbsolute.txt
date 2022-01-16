@@ -1,0 +1,14 @@
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\poaped08\source\repos\Udemy\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
