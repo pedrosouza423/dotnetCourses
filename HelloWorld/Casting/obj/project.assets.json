@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Casting\\Casting.csproj",
+      "projectUniqueName": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Casting\\Casting.csproj",
       "projectName": "Casting",
-      "projectPath": "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Casting\\Casting.csproj",
+      "projectPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Casting\\Casting.csproj",
       "packagesPath": "C:\\Users\\poaped08\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Casting\\obj\\",
+      "outputPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Casting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\poaped08\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Operators\\Operators.csproj",
+      "projectName": "Operators",
+      "projectPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\poaped08\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\poaped08\\AppData\\Roaming\\NuGet\\NuGet.Config",

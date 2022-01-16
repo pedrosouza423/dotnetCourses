@@ -6,9 +6,18 @@ namespace Casting
     {
         static void Main(string[] args)
         {
-            string idade = "12";
-            int a = Convert.ToInt32(idade);
-            Console.WriteLine(a);
+            
+            try
+            {
+                var idade = "121233";
+                byte a = Convert.ToByte(idade);
+                Console.WriteLine(a);
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("The number could not be converted to a byte");
+            }
 
             
         }

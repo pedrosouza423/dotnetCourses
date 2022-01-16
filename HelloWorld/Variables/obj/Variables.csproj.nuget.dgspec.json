@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Variables\\Variables.csproj": {}
+    "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Variables\\Variables.csproj": {
+    "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Variables\\Variables.csproj",
+        "projectPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\poaped08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\poaped08\\source\\repos\\Udemy\\HelloWorld\\Variables\\obj\\",
+        "outputPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\HelloWorld\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\poaped08\\AppData\\Roaming\\NuGet\\NuGet.Config",

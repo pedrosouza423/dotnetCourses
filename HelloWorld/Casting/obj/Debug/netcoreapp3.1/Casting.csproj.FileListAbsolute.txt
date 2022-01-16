@@ -11,3 +11,17 @@ C:\Users\poaped08\source\repos\Udemy\HelloWorld\Casting\obj\Debug\netcoreapp3.1\
 C:\Users\poaped08\source\repos\Udemy\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.dll
 C:\Users\poaped08\source\repos\Udemy\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
 C:\Users\poaped08\source\repos\Udemy\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
