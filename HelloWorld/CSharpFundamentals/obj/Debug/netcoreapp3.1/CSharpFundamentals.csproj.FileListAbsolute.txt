@@ -11,3 +11,4 @@ C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\CSharpFundamentals\o
 C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
 C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
 C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.AssemblyReference.cache
