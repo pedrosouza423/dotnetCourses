@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "Casting\Casting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{87FD13EB-CEF4-4FF4-B529-EFB03F711072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{0A322C64-8EFD-4045-A55C-E4FE2F53014E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{87FD13EB-CEF4-4FF4-B529-EFB03F711072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87FD13EB-CEF4-4FF4-B529-EFB03F711072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87FD13EB-CEF4-4FF4-B529-EFB03F711072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A322C64-8EFD-4045-A55C-E4FE2F53014E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A322C64-8EFD-4045-A55C-E4FE2F53014E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A322C64-8EFD-4045-A55C-E4FE2F53014E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A322C64-8EFD-4045-A55C-E4FE2F53014E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
