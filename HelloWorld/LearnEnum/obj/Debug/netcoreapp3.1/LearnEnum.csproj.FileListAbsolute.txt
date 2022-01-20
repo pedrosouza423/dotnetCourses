@@ -1,0 +1,13 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\bin\Debug\netcoreapp3.1\LearnEnum.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\bin\Debug\netcoreapp3.1\LearnEnum.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\bin\Debug\netcoreapp3.1\LearnEnum.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\bin\Debug\netcoreapp3.1\LearnEnum.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\bin\Debug\netcoreapp3.1\LearnEnum.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\bin\Debug\netcoreapp3.1\LearnEnum.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\LearnEnum\obj\Debug\netcoreapp3.1\LearnEnum.genruntimeconfig.cache

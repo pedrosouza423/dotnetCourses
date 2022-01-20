@@ -31,6 +31,10 @@ I'm pround of you :D
  -----------------";
             Console.WriteLine(text);
 
+            var team = new string[3] { "Pedro", "Luizinha", "Lucas" };
+            var allTeam = string.Join(',', team);
+            Console.WriteLine(allTeam);
+
         }
     }
 }

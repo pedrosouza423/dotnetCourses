@@ -11,3 +11,4 @@ C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Strings\obj\Debug\ne
 C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Strings\obj\Debug\netcoreapp3.1\Strings.dll
 C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
 C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.AssemblyReference.cache

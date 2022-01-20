@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Oper
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{0A322C64-8EFD-4045-A55C-E4FE2F53014E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{DDFFFAC0-6091-49BE-A667-8EE3B69334B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{DDFFFAC0-6091-49BE-A667-8EE3B69334B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{B50D4248-90E2-499F-BB7C-0DBE877E0648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{B50D4248-90E2-499F-BB7C-0DBE877E0648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnEnum", "LearnEnum\LearnEnum.csproj", "{4BF8CAC8-D6E2-4371-9922-EC08CD2230B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B50D4248-90E2-499F-BB7C-0DBE877E0648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B50D4248-90E2-499F-BB7C-0DBE877E0648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B50D4248-90E2-499F-BB7C-0DBE877E0648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF8CAC8-D6E2-4371-9922-EC08CD2230B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF8CAC8-D6E2-4371-9922-EC08CD2230B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF8CAC8-D6E2-4371-9922-EC08CD2230B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF8CAC8-D6E2-4371-9922-EC08CD2230B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
