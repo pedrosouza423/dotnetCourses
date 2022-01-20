@@ -1,0 +1,14 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\bin\Debug\netcoreapp3.1\ValueRefereceTypes.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\bin\Debug\netcoreapp3.1\ValueRefereceTypes.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\bin\Debug\netcoreapp3.1\ValueRefereceTypes.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\bin\Debug\netcoreapp3.1\ValueRefereceTypes.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\bin\Debug\netcoreapp3.1\ValueRefereceTypes.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\bin\Debug\netcoreapp3.1\ValueRefereceTypes.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.genruntimeconfig.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\HelloWorld\ValueRefereceTypes\obj\Debug\netcoreapp3.1\ValueRefereceTypes.csproj.AssemblyReference.cache
