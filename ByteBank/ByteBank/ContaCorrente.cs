@@ -6,8 +6,8 @@ namespace ByteBank
 {
     internal class ContaCorrente
     {
-        public string titular;
-        private double saldo;
+        public Titular titular;
+        public double saldo;
         public string agencia;
         public string numero;
 
