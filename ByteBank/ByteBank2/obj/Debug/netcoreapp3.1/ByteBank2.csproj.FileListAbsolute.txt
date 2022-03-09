@@ -1,0 +1,13 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\bin\Debug\netcoreapp3.1\ByteBank2.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\bin\Debug\netcoreapp3.1\ByteBank2.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\bin\Debug\netcoreapp3.1\ByteBank2.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\bin\Debug\netcoreapp3.1\ByteBank2.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\bin\Debug\netcoreapp3.1\ByteBank2.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\bin\Debug\netcoreapp3.1\ByteBank2.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\ByteBank2\obj\Debug\netcoreapp3.1\ByteBank2.genruntimeconfig.cache

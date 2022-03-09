@@ -2,10 +2,15 @@
 {
     public class Titular
     {
-        private string nome;
-        private string cpf;
-        private string profissao;
+        public string Nome { get; set; }
+        public string CPF { get; set; }
+        public string Profissao { get; set; }
 
-
-    }
+        public Titular(string nome, string cpf, string profissao)
+        {
+            Nome = nome;
+            CPF = cpf;
+            Profissao = profissao;
+        }
+    }   
 }

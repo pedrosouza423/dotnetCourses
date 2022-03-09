@@ -6,17 +6,9 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-
-
-            ContaCorrente pedro = new ContaCorrente();
-            ContaCorrente lucas = new ContaCorrente();
-
-            pedro.Depositar(1500);
-            pedro.Transferir(lucas, 500);
-
-            Console.WriteLine(pedro.saldo);
-            Console.WriteLine(lucas.saldo);
-
+            Titular pedro = new Titular("Pedro","12345678901","Desenvolvedor");
+            
+            Console.WriteLine("Hello");
             Console.ReadLine();
         }
     }

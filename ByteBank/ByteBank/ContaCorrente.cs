@@ -6,24 +6,26 @@ namespace ByteBank
 {
     internal class ContaCorrente
     {
-        public Titular titular;
-        public double saldo;
-        public string agencia;
-        public string numero;
+        public Titular Titular { get; set; }
+        public double Saldo { get; set; }
+        public int Agencia { get; set; }
+        public int Numero { get; set; }
+       
+    
+        public ContaCorrente (int agencia, int numero)
+	    {
 
-        public ContaCorrente()
-        {
-               
-        }
+	    }
+        
 
         public void Sacar(double valor)
         {
-            if (this.saldo < valor)
+            if (Saldo < valor)
             {
                 Console.WriteLine("Saldo insuficiente");
                 return;
             }
-            this.saldo -= valor;
+            Saldo -= valor;
         }
 
         public void Depositar(double valor)
@@ -33,12 +35,12 @@ namespace ByteBank
                 Console.WriteLine("Saldo insuficiente");
                 return;
             }
-            this.saldo += valor;
+            Saldo += valor;
         }
 
         public void Transferir(ContaCorrente conta,double valor)
         {
-            if (this.saldo < valor)
+            if (Saldo < valor)
             {
                 Console.WriteLine("Saldo insuficiente");
                 return;

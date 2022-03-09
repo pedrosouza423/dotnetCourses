@@ -10,7 +10,17 @@
       "ProjectGuid": "66eef68f-e43d-49e4-bcf4-85cf467c48f3",
       "DisplayName": "Solution Items",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5b35cd79-80fe-4873-a171-2e6644370339": {
+      "ProjectGuid": "5b35cd79-80fe-4873-a171-2e6644370339",
+      "DisplayName": "ByteBank2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
