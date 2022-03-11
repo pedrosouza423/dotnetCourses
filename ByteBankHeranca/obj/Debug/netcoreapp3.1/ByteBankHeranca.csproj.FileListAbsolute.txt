@@ -1,0 +1,14 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.csproj.AssemblyReference.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\bin\Debug\netcoreapp3.1\ByteBankHeranca.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\bin\Debug\netcoreapp3.1\ByteBankHeranca.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\bin\Debug\netcoreapp3.1\ByteBankHeranca.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\bin\Debug\netcoreapp3.1\ByteBankHeranca.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\bin\Debug\netcoreapp3.1\ByteBankHeranca.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\bin\Debug\netcoreapp3.1\ByteBankHeranca.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBankHeranca\obj\Debug\netcoreapp3.1\ByteBankHeranca.genruntimeconfig.cache

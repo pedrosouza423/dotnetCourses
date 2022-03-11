@@ -1,16 +1,21 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "9dd6c945-ea68-4024-ba49-1efe9950d849": {
-      "ProjectGuid": "9dd6c945-ea68-4024-ba49-1efe9950d849",
+    "56e895a3-2e65-4660-af27-e7478c037653": {
+      "ProjectGuid": "56e895a3-2e65-4660-af27-e7478c037653",
       "DisplayName": "ByteBankHeranca",
       "ColorIndex": 0
     },
-    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
-      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
-      "DisplayName": "Miscellaneous Files",
-      "ColorIndex": -1
+    "3144872c-948b-4fa1-b3bf-f3a0418b0f30": {
+      "ProjectGuid": "3144872c-948b-4fa1-b3bf-f3a0418b0f30",
+      "DisplayName": "Funcionarios",
+      "ColorIndex": 1
+    },
+    "806d1941-d32d-435e-a333-696a5b4d2fc3": {
+      "ProjectGuid": "806d1941-d32d-435e-a333-696a5b4d2fc3",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

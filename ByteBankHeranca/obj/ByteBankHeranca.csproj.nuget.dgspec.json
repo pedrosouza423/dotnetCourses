@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca\\ByteBankHeranca.csproj": {}
+    "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca\\ByteBankHeranca.csproj": {
+    "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca\\ByteBankHeranca.csproj",
+        "projectUniqueName": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca.csproj",
         "projectName": "ByteBankHeranca",
-        "projectPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca\\ByteBankHeranca.csproj",
+        "projectPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca.csproj",
         "packagesPath": "C:\\Users\\poaped08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\ByteBankHeranca\\obj\\",
+        "outputPath": "C:\\Users\\poaped08\\Documents\\GitHub\\dotnetCourses\\ByteBankHeranca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
