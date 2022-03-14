@@ -5,10 +5,13 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBankHeranca", "ByteBankHeranca.csproj", "{56E895A3-2E65-4660-AF27-E7478C037653}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{806D1941-D32D-435E-A333-696A5B4D2FC3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Funcionarios", "Funcionarios", "{806D1941-D32D-435E-A333-696A5B4D2FC3}"
 	ProjectSection(SolutionItems) = preProject
+		Auxiliar.cs = Auxiliar.cs
+		Designer.cs = Designer.cs
 		Diretor.cs = Diretor.cs
 		Funcionario.cs = Funcionario.cs
+		GerenteDeConta.cs = GerenteDeConta.cs
 	EndProjectSection
 EndProject
 Global
