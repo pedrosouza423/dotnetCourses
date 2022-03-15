@@ -14,10 +14,10 @@ namespace ByteBankHeranca
 
             Diretor diretor = new Diretor("12345678901");
             diretor.Nome = "Pedro";
-
+            diretor.Senha = "123";
             Console.WriteLine(diretor.Salario);
 
-
+            
         }
     }
 }

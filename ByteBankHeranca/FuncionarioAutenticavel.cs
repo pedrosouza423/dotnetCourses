@@ -2,16 +2,16 @@
 
 namespace ByteBankHeranca
 {
-    public abstract class Autenticavel : Funcionario
+    public abstract class FuncionarioAutenticavel : Funcionario, IAutenticavel
     {
         public string Senha { get; set; }
 
-        protected Autenticavel(string cpf, double salario) : base(cpf, salario)
+        public FuncionarioAutenticavel(string cpf, double salario) : base(cpf, 5000)
         {
         }
 
         public bool Autenticar(string senha)
-        {
+        { 
             return Senha == senha;
         }
 
