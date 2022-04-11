@@ -1,0 +1,8 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\ByteBank\Exceptions\ByteBank\obj\Debug\ByteBank.pdb
