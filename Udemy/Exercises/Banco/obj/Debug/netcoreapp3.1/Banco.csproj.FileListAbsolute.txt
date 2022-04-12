@@ -1,0 +1,14 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.AssemblyReference.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
