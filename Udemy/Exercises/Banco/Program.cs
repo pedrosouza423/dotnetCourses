@@ -6,6 +6,27 @@ namespace Banco
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Escolha o numero de pessoas:");
+            int n = int.Parse(Console.ReadLine());
+
+            double[] vect = new double[n];
+            for (int i = 0; i < n; i++)
+            {
+                vect[i] = double.Parse(Console.ReadLine());
+            }
+
+            double sum = 0;
+            for (int i = 0; i < n; i++)
+            {
+                sum += vect[i];
+            }
+
+
+            double average = sum / vect.Length;
+
+            Console.WriteLine($"A media dos valores é {average}");
+
             //Conta conta;
             //Console.WriteLine("Digite o numero da conta: ");
             //int numero = int.Parse(Console.ReadLine());
@@ -29,9 +50,13 @@ namespace Banco
             //Console.WriteLine("Dados da conta:");
             //Console.WriteLine(conta);
 
+            //Nullable
+            //double? numero = 0;
+            //Console.WriteLine(numero);
 
-            double? numero = 0;
-            Console.WriteLine(numero);
+
+
+
         }
     }
 }

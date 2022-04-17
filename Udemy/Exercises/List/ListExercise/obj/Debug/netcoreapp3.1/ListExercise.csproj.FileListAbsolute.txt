@@ -1,0 +1,14 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\bin\Debug\netcoreapp3.1\ListExercise.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\bin\Debug\netcoreapp3.1\ListExercise.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\bin\Debug\netcoreapp3.1\ListExercise.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\bin\Debug\netcoreapp3.1\ListExercise.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\bin\Debug\netcoreapp3.1\ListExercise.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\bin\Debug\netcoreapp3.1\ListExercise.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.csproj.AssemblyReference.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\ListExercise\obj\Debug\netcoreapp3.1\ListExercise.genruntimeconfig.cache
