@@ -1,0 +1,13 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\bin\Debug\netcoreapp3.1\MatrizFix.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\bin\Debug\netcoreapp3.1\MatrizFix.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\bin\Debug\netcoreapp3.1\MatrizFix.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\bin\Debug\netcoreapp3.1\MatrizFix.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\bin\Debug\netcoreapp3.1\MatrizFix.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\bin\Debug\netcoreapp3.1\MatrizFix.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizFix\obj\Debug\netcoreapp3.1\MatrizFix.genruntimeconfig.cache

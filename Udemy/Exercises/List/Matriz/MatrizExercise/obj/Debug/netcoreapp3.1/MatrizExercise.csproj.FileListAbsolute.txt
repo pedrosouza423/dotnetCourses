@@ -1,0 +1,14 @@
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.exe
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.deps.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.runtimeconfig.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.runtimeconfig.dev.json
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.csproj.AssemblyReference.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.AssemblyInfoInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.AssemblyInfo.cs
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.csproj.CoreCompileInputs.cache
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.dll
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.pdb
+C:\Users\poaped08\Documents\GitHub\dotnetCourses\Udemy\Exercises\List\Matriz\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.genruntimeconfig.cache

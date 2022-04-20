@@ -27,6 +27,7 @@ namespace ListExercise
                 employee.Id = id;
                 employee.Name = name;
                 employee.Salary = salary;
+                employees.Add(employee);
 
             }
 
@@ -39,12 +40,17 @@ namespace ListExercise
             //{
             //    if(employee.Id != increaseSalartId)
             //    {
-                    
+
             //    }
             //}
 
             //Console.WriteLine("Enter the percentage: ");
             //int increasePercentage = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Updated list of employees:");
+            //foreach (Employee employee in employees)
+            //{
+            //    Console.WriteLine();
+            //}
 
 
 
